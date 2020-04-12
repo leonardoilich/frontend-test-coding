@@ -24,7 +24,7 @@ Principalmente los siguientes aspectos:
 6. El tiempo límite empleado es empezando el **domingo 12 de Abril a las 10:00 a.m.** y finalizando el **lunes 13 de Abril a las 10:00 p.m.**
 7. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 8. **Antes de comenzar a programar:**
-    * Realizar un `Fork` de este repositorio (https://github.com/thedavos/frontend-test-coding.git).
+    * Realizar un `Fork` de este repositorio (https://github.com/thedavos/frontend-test-coding).
     * Clonar el fork a su máquina local  `git clone git@github.com:USERNAME/FORKED-PROJECT.git`
     * Crear un `branch` en su cuenta de GitHub utilizando su nombre completo.
 9. **Al finalizar**, existen 2 (dos) opciones para entregar su proyecto:
